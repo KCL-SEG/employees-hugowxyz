@@ -77,8 +77,6 @@ billie = Employee(
     'Billie',
     createPaymentMethod('SALARY', 4000))
 
-print(billie)
-
 # Charlie works on a contract of 100 hours at 25/hour.  Their total pay is 2500.
 charlie = Employee(
     'Charlie',
